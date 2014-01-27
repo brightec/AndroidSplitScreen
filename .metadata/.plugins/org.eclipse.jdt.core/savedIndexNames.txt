@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/andyhails/Apps/Android/splitscreen/.metadata/.plugins/org.eclipse.jdt.core
+1542256292.index
+2208550407.index
+1687242876.index
